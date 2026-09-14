@@ -1,0 +1,75 @@
+{
+ "ok": true,
+ "maxDegree": 268,
+ "worstExactErr": 0,
+ "meanDegree": 239.9,
+ "hoeffding": 39.11332365332984,
+ "readsLower": 210540089.936886,
+ "readsUpper": 292566674.863114,
+ "readsDense": 549756338176,
+ "results": [
+  {
+   "name": "BOUNDED",
+   "ok": true,
+   "measured": true,
+   "checked": 100,
+   "passed": 100,
+   "fraction": 1,
+   "lowerBound": 0.9704869503929597
+  },
+  {
+   "name": "EXACT",
+   "ok": true,
+   "measured": false,
+   "checked": 0,
+   "passed": 0,
+   "fraction": 0,
+   "lowerBound": 0
+  },
+  {
+   "name": "RANGE",
+   "ok": true,
+   "measured": true,
+   "checked": 100,
+   "passed": 100,
+   "fraction": 1,
+   "lowerBound": 0.9704869503929597
+  },
+  {
+   "name": "HEARDBY",
+   "ok": true,
+   "measured": false,
+   "checked": 0,
+   "passed": 0,
+   "fraction": 0,
+   "lowerBound": 0
+  },
+  {
+   "name": "DIRECT",
+   "ok": true,
+   "measured": false,
+   "checked": 0,
+   "passed": 0,
+   "fraction": 0,
+   "lowerBound": 0
+  },
+  {
+   "name": "CONNECTED",
+   "ok": true,
+   "measured": false,
+   "checked": 0,
+   "passed": 0,
+   "fraction": 0,
+   "lowerBound": 0
+  },
+  {
+   "name": "WEIGHTS",
+   "ok": true,
+   "measured": true,
+   "checked": 1,
+   "passed": 1,
+   "fraction": 1,
+   "lowerBound": 0.049999999999999996
+  }
+ ]
+}
